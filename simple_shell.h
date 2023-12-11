@@ -1,7 +1,7 @@
 #ifndef SIMPLE_SHELL_H
 #define SIMPLE_SHELL_H
 
-/* Standard libraries */
+/*Standard - libraries */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -10,7 +10,7 @@
 #include <string.h>
 #include <limits.h>
 
-/* Function prototypes */
+/* Function - prototypes */
 int execute_command(char *command, char *args[]);
 void display_prompt(void);
 void handle_piped_input(void);
