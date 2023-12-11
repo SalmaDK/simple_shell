@@ -1,7 +1,7 @@
 #include "simple_shell.h"
 
 /**
- * main - Entry point for the simple shell program.
+ * main - simple shell program.
  *
  * Return: Always 0.
  */
